@@ -32,10 +32,11 @@ Before running this script, ensure that you have the following prerequisites in 
 
 ## Sample Output
 
-Here is an example of the extracted email headers:
+Here is an example of the extracted email headers in HearderOutput.txt:
 
 ```
 Headers from: C:\path\to\example.msg
+
 Received: from mail.example.com (mail.example.com [203.0.113.1])
     by mail.example.com (Postfix) with ESMTP id ABCDEFGHIJKL
     for <recipient@example.com>; Fri, 01 Jan 2023 12:34:56 +0000 (UTC)
